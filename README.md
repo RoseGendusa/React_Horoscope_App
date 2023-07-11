@@ -23,6 +23,7 @@ JavaScript
 Thank you for exploring the Horoscope App. Enjoy discovering the secrets of the stars!
 
 
+![login_page](https://github.com/gulfidanozturk/React_Horoscope_App/blob/main/preview/horoscope.jpg?raw=true)
 
 
 
