@@ -1,0 +1,7 @@
+@import './scss/reset.scss', './scss/variables.scss';
+
+.App{
+    background: $backgroundImage;
+    height: 100%;
+    min-height: 100vh;
+}

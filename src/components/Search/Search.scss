@@ -1,0 +1,32 @@
+.search{
+    border: 1px solid #ccc;
+    position: relative;
+    width: 100%;
+    height: 2.5rem;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    
+
+    input{
+        width: 94%; 
+        height: 100%;
+        position: absolute;
+        top:0;
+        right: 0;
+        outline: none;
+        border: none;
+        padding-left:1rem ;
+        font-size: 1.5rem;
+        
+    }
+    i{
+        position: absolute;
+        top:25%;
+        left:5px;
+        font-size: 18px;
+
+
+
+    }
+}
